@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "suites": 8,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-11-21T23:08:47.658Z",
+    "end": "2023-11-21T23:08:49.053Z",
+    "duration": 1395
+  },
+  "tests": [
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope Fix the Scope Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope Fix the Scope Fix the Scope Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 8,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope Fix the Scope Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope Fix the Scope Fix the Scope Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 8,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
